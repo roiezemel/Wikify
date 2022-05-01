@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Computer
+https://en.wikipedia.org/wiki/Arithmetic
+https://en.wikipedia.org/wiki/Computer_programming
+https://en.wikipedia.org/wiki/Computer_program
+https://en.wikipedia.org/wiki/Boolean_algebra

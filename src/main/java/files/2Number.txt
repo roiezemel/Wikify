@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Nominal_number
+https://en.wikipedia.org/wiki/Natural_number
+https://en.wikipedia.org/wiki/Counting
+https://en.wikipedia.org/wiki/Mathematical_object
+https://en.wikipedia.org/wiki/Variable_(mathematics)
